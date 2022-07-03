@@ -1,1 +1,9 @@
 # ReadyForAI
+
+
+
+## numpy
+
+## pandas
+
+## matplotlib
